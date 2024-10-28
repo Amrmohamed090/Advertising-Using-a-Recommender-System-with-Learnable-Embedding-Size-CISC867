@@ -66,7 +66,7 @@ if __name__ == '__main__':
             ## Model ##
             ###########
             factorizer='fm',
-            model='deepfm',
+            model='autoint',
             fm_lr=1e-3,
             # Deep
             mlp_dims=[100, 100],
