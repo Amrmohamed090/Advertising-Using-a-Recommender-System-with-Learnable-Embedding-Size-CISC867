@@ -1,0 +1,3 @@
+[submodule "learnable-embed-sizes-for-RecSys"]
+	path = learnable-embed-sizes-for-RecSys
+	url = ./learnable-embed-sizes-for-RecSys
