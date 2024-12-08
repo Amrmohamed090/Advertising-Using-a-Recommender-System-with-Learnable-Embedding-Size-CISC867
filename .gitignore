@@ -168,3 +168,5 @@ dac.tar.gz
 runs/
 ./UniformEmbedding/tmp/embedding/
 embedding/
+.mdb
+cache/
