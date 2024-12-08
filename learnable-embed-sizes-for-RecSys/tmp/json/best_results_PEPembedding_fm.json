@@ -1,0 +1,10 @@
+{
+    "latent_dims": [
+        8,
+        16
+    ],
+    "best_test_results": [
+        0,
+        0
+    ]
+}
