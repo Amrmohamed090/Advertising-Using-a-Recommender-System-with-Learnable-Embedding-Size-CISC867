@@ -167,4 +167,5 @@ cython_debug/
 /tmp/
 /learnable-embed-sizes-for-RecSys/tmp/runs/fm/avazu
 /learnable-embed-sizes-for-RecSys/tmp/runs
-/UniformEmbedding/tmp/runs
+/UniformEmbedding/tmp/runs/{factorizer}/{data_type}
+/UniformEmbedding
